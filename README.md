@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=180&color=0:6366f1,50:a855f7,100:ec4899&text=priya%20vijaya%20basker&fontColor=ffffff&fontSize=44&fontAlign=40&fontAlignY=32&desc=data%20science%20%2B%20statistics%20%C2%B7%20ut%20austin&descAlign=40&descAlignY=54&descSize=16" />
+  <img alt="priya vijaya basker · data science + statistics · ut austin" src="https://capsule-render.vercel.app/api?type=rounded&height=160&color=0:6366f1,50:a855f7,100:ec4899&text=priya%20vijaya%20basker&fontColor=ffffff&fontSize=46&fontAlign=50&fontAlignY=42&desc=data%20science%20%2B%20statistics%20%C2%B7%20ut%20austin&descAlign=50&descAlignY=68&descSize=17&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=900&color=A855F7&center=true&vCenter=true&width=600&lines=%3E+data+scientist;%3E+data+engineer;%3E+ai%2Fml+engineer;%3E+models+are+only+as+good+as+their+pipelines" />
+  <img alt="data scientist · data engineer · ai/ml engineer" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=900&color=A855F7&center=true&vCenter=true&width=600&lines=%3E+data+scientist;%3E+data+engineer;%3E+ai%2Fml+engineer;%3E+models+are+only+as+good+as+their+pipelines" />
 </p>
 
 <p align="center">
@@ -98,5 +98,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&height=80&section=footer&reversal=true&color=0:6366f1,50:a855f7,100:ec4899" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=6&section=footer&color=0:6366f1,50:a855f7,100:ec4899" />
 </p>
