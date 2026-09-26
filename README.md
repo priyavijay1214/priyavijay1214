@@ -8,8 +8,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/open%20to-internships-ec4899?style=flat-square"/>
-  <img src="https://img.shields.io/badge/based%20in-austin%2C%20tx-6366f1?style=flat-square"/>
-  <img src="https://img.shields.io/badge/%F0%9F%8F%86%201st%20place-datahack%202026-a855f7?style=flat-square"/>
 </p>
 
 <br/>
@@ -20,27 +18,24 @@
   <tr>
     <td width="33%" valign="top">
       <b>📊 data science</b><br/><br/>
-      a/b testing + experiment design<br/>
-      causal inference (did, rd)<br/>
       credit risk modeling<br/>
+      time series forecasting<br/>
       segmentation + clustering<br/>
-      time series forecasting
+      causal inference + a/b testing
     </td>
     <td width="33%" valign="top">
       <b>🛠️ data engineering</b><br/><br/>
-      etl pipelines in python + sql<br/>
-      sql window function feature layers<br/>
+      sql window function pipelines<br/>
       dbt + spark on databricks<br/>
       airflow orchestration<br/>
-      snowflake + postgres
+      snowflake + bigquery
     </td>
     <td width="33%" valign="top">
       <b>🤖 ai/ml engineering</b><br/><br/>
       gradient boosting (lightgbm, xgboost)<br/>
-      ensembles + model validation<br/>
+      deep forecasting (lstm, tft)<br/>
       llm api integration<br/>
-      pytorch + tensorflow<br/>
-      docker + cloud (aws, gcp, azure)
+      pytorch + tensorflow
     </td>
   </tr>
 </table>
@@ -51,21 +46,6 @@
 
 <table>
   <tr>
-    <td colspan="2" valign="top">
-      <h3>llm powered data model generator</h3>
-      <img src="https://img.shields.io/badge/data%20eng-a855f7?style=flat-square"/>
-      <img src="https://img.shields.io/badge/ai%2Fml%20eng-ec4899?style=flat-square"/>
-      <img src="https://img.shields.io/badge/~80%25%20less%20manual%20modeling-6366f1?style=flat-square"/>
-      <p><i>raw schema + business requirements in, star schema + ready to run dbt models out</i></p>
-      <ul>
-        <li>generative ai pipeline that auto designs star schemas and writes dbt models</li>
-        <li>10+ generated models executed and validated on databricks/spark against a real public dataset</li>
-        <li>orchestrated with airflow; owned schema design, generation, and validation end to end</li>
-      </ul>
-      <a href="https://github.com/priyavijay1214/-LLM-Powered-Data-Model-Generator"><b>→ view repo</b></a>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>loan default risk prediction</h3>
       <img src="https://img.shields.io/badge/data%20science-6366f1?style=flat-square"/>
@@ -74,7 +54,7 @@
       <p><i>scoring credit risk from payment behavior, not just credit score</i></p>
       <ul>
         <li>25k+ loans across 4 relational tables</li>
-        <li>28 features built in a reusable sql window function layer</li>
+        <li>28 features built with sql window functions</li>
         <li>lightgbm, 5% lift over a logistic regression baseline</li>
       </ul>
       <a href="https://github.com/priyavijay1214/Loan-Default-Risk-Prediction"><b>→ view repo</b></a>
@@ -100,7 +80,7 @@
 ## ▸ toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,java,js,ts,c,bash,mysql,postgres,sklearn,pytorch,tensorflow,aws,gcp,azure,docker,git,vscode&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,r,postgres,mysql,sklearn,pytorch,tensorflow,aws,docker,git&theme=dark" />
 </p>
 
 <p align="center">
@@ -111,10 +91,10 @@
   <img src="https://img.shields.io/badge/databricks-a855f7?style=flat-square&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/dbt-a855f7?style=flat-square&logo=dbt&logoColor=white"/>
   <img src="https://img.shields.io/badge/airflow-a855f7?style=flat-square&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/snowflake-a855f7?style=flat-square&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/snowflake-ec4899?style=flat-square&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bigquery-ec4899?style=flat-square&logo=googlebigquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/tableau-ec4899?style=flat-square"/>
-  <img src="https://img.shields.io/badge/excel-ec4899?style=flat-square"/>
-  <img src="https://img.shields.io/badge/jira-ec4899?style=flat-square&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/power%20bi-ec4899?style=flat-square"/>
 </p>
 
 <p align="center">
