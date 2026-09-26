@@ -1,9 +1,5 @@
 <p align="center">
-  <img alt="priya vijaya basker · data science + statistics · ut austin" src="https://capsule-render.vercel.app/api?type=rounded&height=160&color=0:6366f1,50:a855f7,100:ec4899&text=priya%20vijaya%20basker&fontColor=ffffff&fontSize=46&fontAlign=50&fontAlignY=42&desc=data%20science%20%2B%20statistics%20%C2%B7%20ut%20austin&descAlign=50&descAlignY=68&descSize=17&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img alt="data scientist · data engineer · ai/ml engineer" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=900&color=A855F7&center=true&vCenter=true&width=600&lines=%3E+data+scientist;%3E+data+engineer;%3E+ai%2Fml+engineer;%3E+models+are+only+as+good+as+their+pipelines" />
+  <img alt="priya vijaya basker · data scientist · data engineer · ai/ml engineer · ut austin" src="./banner.svg" width="100%" />
 </p>
 
 <p align="center">
