@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="priya vijaya basker · data scientist · data engineer · ai/ml engineer · ut austin" src="./banner.svg" width="100%" />
+  <img alt="priya vijaya basker · data science · data engineer · ai/ml engineer · ut austin" src="./banner.svg" width="100%" />
 </p>
 
 <p align="center">
