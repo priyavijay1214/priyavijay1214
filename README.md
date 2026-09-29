@@ -20,14 +20,14 @@
       Statistical hypothesis testing
     </td>
     <td width="33%" valign="top">
-      <b>🛠️ data engineering</b><br/><br/>
+      <b>🛠️ data engineer</b><br/><br/>
       SQL window function feature pipelines<br/>
       ETL pipelines in Python + SQL<br/>
       dbt + Spark on Databricks<br/>
       Airflow orchestration
     </td>
     <td width="33%" valign="top">
-      <b>🤖 ai/ml engineering</b><br/><br/>
+      <b>🤖 ai/ml engineer</b><br/><br/>
       Gradient boosting (LightGBM, XGBoost)<br/>
       Model evaluation + validation<br/>
       LLM API integration
