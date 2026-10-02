@@ -37,7 +37,7 @@
 
 <br/>
 
-## ▸ featured work
+## ▸ featured work -
 
 <table>
   <tr>
