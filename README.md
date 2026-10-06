@@ -13,7 +13,7 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <b>📊 data scientist</b><br/><br/>
+      <b>📊 data science</b><br/><br/>
       Credit risk modeling<br/>
       Customer segmentation<br/>
       A/B testing + experiment design<br/>
